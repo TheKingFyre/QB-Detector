@@ -1,5 +1,6 @@
 ## QB Metal Detector Script
-## Created by KingFyre      -8-31-21
+## Created by KingFyre      
+## V1.0 8-31-21
 ##  
 ##  Script is Just Drag and Drop.
 ##  Ensure tk-detector - or whatever you name the script in your resource.cfg
