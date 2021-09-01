@@ -3,7 +3,7 @@
 ## V1.0 8-31-21
 ##  
 ##  Script is Just Drag and Drop.
-##  Ensure tk-detector - or whatever you name the script in your resource.cfg
+##  Ensure qb-detector - or whatever you name the script in your resource.cfg
 ##  
 ##  If You Operate your QB Server with a modified name update it in the Config.lua
 ##  The Config.lua contains anything you may want to add or change.
