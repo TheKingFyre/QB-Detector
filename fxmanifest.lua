@@ -7,15 +7,15 @@ version '1.0.0' -- 8-31-21
 
 shared_scripts { 
 	'@dc-core/import.lua',
-  'config.lua',
+  	'config.lua',
 }
 
 server_script {
-  'server/*.lua',
-  'config.lua',
+	'config.lua',
+  	'server/*.lua',
 }
 
 client_scripts {
-  'config.lua',
-  'client/*.lua'
+  	'config.lua',
+  	'client/*.lua'
 }
