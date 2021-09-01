@@ -6,7 +6,7 @@ description '[TheKingFyre] QB Detectors'
 version '1.0.0' -- 8-31-21
 
 shared_scripts { 
-	'@dc-core/import.lua',
+	'@qb-core/import.lua',
   	'config.lua',
 }
 
