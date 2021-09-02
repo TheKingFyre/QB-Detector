@@ -6,7 +6,7 @@ Citizen.CreateThread(function()
         local pedCoords = GetEntityCoords(ped)
         for q, r in pairs(Config.Detectors) do
             local distanceCheck = #(pedCoords - vector3(r.x, r.y, r.z))
-            if distanceCheck <= 0.8 then
+            if distanceCheck <= Config.Detectdistance then
                 Config.Framework.Functions.TriggerCallback('tk-detector:server:weaponcheck', function(cb)
                     if cb == true then
                         if not DetectorActive then
