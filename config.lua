@@ -12,6 +12,8 @@ Config.InteractSoundAlertDist = 10                       -- Distance it can be h
 Config.InteractSoundAlertVol = 1.0                       -- Alert Volume. Ideal Range is 0.5 -1.0
 Config.TNotify = true                                    -- Set true to use t-notify otherwise false will use default qbcore notif.
 Config.DetectorReChecks = 4000                           -- The Frequence The Detector checks after a person scan, Default is 4000 (4seconds)
+Config.Detectdistance = 0.6                              -- Detector Distance
+
 -------------------------------
 -------Detectors
 -------------------------------
