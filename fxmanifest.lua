@@ -3,7 +3,7 @@ game 'gta5'
 
 author '[TheKingFyre]'
 description '[TheKingFyre] QB Detectors'
-version '1.0.0' -- 8-31-21
+version '1.1.0' -- 9-2-21
 
 shared_scripts { 
 	'@qb-core/import.lua',
